@@ -35,3 +35,8 @@ Investigating the impact of state policies on digital learning engagement remain
 
 ## Limitations
 The study's scope is limited, and subjective interpretation of some data points could affect the analysis.
+Author
+Your journey guide in this coding odyssey: [Vishal Kumar]
+
+License
+This project is more liberating than your favorite coding playlist. Check out the LICENSE.md file for all the details.
